@@ -1,0 +1,26 @@
+{
+  "name": "lmnode",
+  "version": "0.1.0",
+  "description": "Small NodeJS Library",
+  "author": "Alexander Lonberg <alexlonberg@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "^12.13.0"
+  },
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "library",
+    "node"
+  ],
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "optionalDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "repository": "https://github.com/AlexLonberg/lmnode.git",
+  "homepage": "https://github.com/AlexLonberg/lmnode"
+}
